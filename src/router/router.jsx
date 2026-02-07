@@ -142,5 +142,5 @@ const router = createBrowserRouter([
           },
     ],
   },
-], { basename: "/dashboard" });
+]);
 export default router;
